@@ -1,2 +1,2 @@
-# itkaran
-This is a sample page for my website www.itkaran.in
+# Resume Kumar Karan
+This is my professional profile page.
